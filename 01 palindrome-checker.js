@@ -7,7 +7,7 @@ function palindrome(str) {
   }
   return true;
 }
-/*Or (Line 5-9)
+/*Or (Line 5-8)
   return (thaiString != reversedString) ? false : true;*/
 
 let result = palindrome("A man, a plan, a canal. Panama");
