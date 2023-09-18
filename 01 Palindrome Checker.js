@@ -9,7 +9,7 @@ console.log(thaiString, reversedString);
   return true;
 }
 
-/*Or (Line 5-8)
+/*Or (Line 6-9)
   return (thaiString != reversedString) ? false : true;*/
 
 let result = palindrome("A man, a plan, a canal. Panama");
